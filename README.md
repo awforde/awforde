@@ -10,4 +10,4 @@ You can find me on my social media:
 
 Also check out some of my projects:
 
-[Trailblaze](/Trailblaze)
+[Trailblaze](https://github.com/awforde/Trailblaze/)
